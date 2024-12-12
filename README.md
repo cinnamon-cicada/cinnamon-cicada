@@ -15,7 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# Hello there! 👋
 I'm a sophomore at Vanderbilt University looking to create social impact through technology. I am also...
 
 - 🐛 a cicada lover;
