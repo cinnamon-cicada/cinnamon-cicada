@@ -24,7 +24,7 @@ I'm a sophomore at Vanderbilt University looking to create social impact through
 
 Would love to chat about all of the above and more!
 
-# Languages 🌍
+## Languages 🌍
 - HTML/CSS
 - JavaScript + JQuery
 - C++
@@ -33,7 +33,7 @@ Would love to chat about all of the above and more!
 - Git
 - XAML
 
-# Softwares 🖥
+## Softwares 🖥
 - Visual Studio Community
 - Visual Studio Code
 - CLion
