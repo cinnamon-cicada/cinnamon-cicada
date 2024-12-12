@@ -14,3 +14,31 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+# Hello there! 👋
+I'm a sophomore at Vanderbilt University looking to create social impact through technology. I am also...
+
+- 🐛 a cicada lover;
+- 🍅 the mother of a Windows study buddy (still in the womb);
+- 🦀 from Maryland;
+- 📽 a filmmaking enthusiast
+
+Would love to chat about all of the above and more!
+
+# Languages 🌍
+- HTML/CSS
+- JavaScript + JQuery
+- C++
+- Python
+- Java
+- Git
+- XAML
+
+# Softwares 🖥
+- Visual Studio Community
+- Visual Studio Code
+- CLion
+- GitHub
+- PowerShell
+- Figma
+- DaVinci Resolve 
