@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 I'm a sophomore at Vanderbilt University looking to create social impact through technology. I am also...
 
 - 🐛 a cicada lover;
-- 🍅 the mother of a Windows study buddy (still in the womb);
+- 🍅 mothering a virtual study buddy (still in the womb);
 - 🦀 from Maryland;
 - 📽 a filmmaking enthusiast
 
