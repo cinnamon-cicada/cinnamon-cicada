@@ -26,11 +26,20 @@ Would love to chat about all of the above and more!
 ## Languages 🌍
 - HTML/CSS
 - JavaScript + JQuery
+- TypeScript
 - C++
 - Python
 - Java
 - Git
 - XAML
+
+## Libraries 🖥
+- React.js
+- Flask
+- Scikit-learn
+- HuggingFace
+- Pandas/NumPy
+- BeautifulSoup
 
 ## Softwares 🖥
 - Visual Studio Community
@@ -39,4 +48,5 @@ Would love to chat about all of the above and more!
 - GitHub
 - PowerShell
 - Figma
-- DaVinci Resolve 
+- DaVinci Resolve
+- Firebase
