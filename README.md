@@ -30,23 +30,17 @@ Would love to chat about all of the above and more!
 - C++
 - Python
 - Java
-- Git
-- XAML
 
 ## Libraries 🖥
-- React.js
-- Flask
-- Scikit-learn
-- HuggingFace
+- Web Dev: Flask, React
+- Machine Learning: Scikit-learn, HuggingFace
 - Pandas/NumPy
 - BeautifulSoup
+- Testing Frameworks: JUnit, Pytest
 
 ## Softwares 🖥
-- Visual Studio Community
-- Visual Studio Code
-- CLion
+- Firebase
 - GitHub
 - PowerShell
 - Figma
 - DaVinci Resolve
-- Firebase
