@@ -87,13 +87,13 @@
  
  ### 📈 Activity Graph
  
- [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Abdalrahman-Alhamod&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
+ [![Eileen's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=cinnamon-cicada&theme=react-dark)](https://github.com/cinnamon-cicada/github-readme-activity-graph)
 
 ### 📊 Most Used Language
 
  <div align=center>
   
-[![](https://github-readme-stats.vercel.app/api/top-langs?username=Abdalrahman-Alhamod&show_icons=true&locale=en&layout=compact&theme=radical)]()  
+[![](https://github-readme-stats.vercel.app/api/top-langs?username=cinnamon-cicada&show_icons=true&locale=en&layout=compact&theme=radical)]()  
   
  </div>
 
@@ -113,13 +113,7 @@
   </a>
 </div>
 
-<h5 align="center">سبحَانَكَ اللَّهُمَّ وَبِحَمْدِكَ، أَشْهَدُ أَنْ لا إِلهَ إِلأَ انْتَ أَسْتَغْفِرُكَ وَأَتْوبُ إِلَيْكَ</h5>
-
 ---
-
-<h6 align="center">👇🏻 Here is a list of the Open Source projects I work on: 👇🏻</h6>
-
-------
 
 Credit: [Abdalrahman-Alhamod](https://github.com/Abdalrahman-Alhamod)
 
