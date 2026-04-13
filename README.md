@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="100%" height="100" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0:1e3a8a,100:4f46e5" />
+<img width="100%" height="100" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0:3b82f6,100:6366f1" />
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=6366F1&width=500&lines=Fullstack+Developer+%7C+Coffee+Connoisseur" />
