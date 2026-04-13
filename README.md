@@ -27,7 +27,8 @@
 
 - Student at Vanderbilt studying Math, Computer Science, and Spanish  
 - Incoming SWE Intern at Oracle Cloud Infrastructure (Nashville, TN)  
-- Always learning—currently exploring backend systems and databases  
+- Always learning—currently exploring backend systems and databases
+- I love amateur photography, hiking, and coffee shops ☕
 
 ---
 
@@ -53,7 +54,8 @@ Built a reproducible pipeline for analyzing structural and functional MRI data, 
 
 ## 🛠 Tech Stack
 
-### 💻 Languages
+<details>
+<summary>### 💻 Languages</summary>
 ![HTML](https://img.shields.io/badge/HTML-1e3a8a?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-1d4ed8?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-2563eb?style=for-the-badge&logo=javascript&logoColor=white)
@@ -61,38 +63,45 @@ Built a reproducible pipeline for analyzing structural and functional MRI data, 
 ![C++](https://img.shields.io/badge/C++-4f46e5?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-6366f1?style=for-the-badge&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-4338ca?style=for-the-badge&logo=java&logoColor=white)
+</details>
 
 ---
 
-### 🖥️ Frameworks
+<details>
+<summary>### 🖥️ Frameworks</summary>
 ![FastAPI](https://img.shields.io/badge/FastAPI-1e3a8a?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-1d4ed8?style=for-the-badge&logo=flask&logoColor=white)
 ![React](https://img.shields.io/badge/React-2563eb?style=for-the-badge&logo=react&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-3b82f6?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![Keras](https://img.shields.io/badge/Keras-4f46e5?style=for-the-badge&logo=keras&logoColor=white)
+</details>
 
 ---
 
-### 📚 Libraries
+<details>
+<summary>### 📚 Libraries</summary>
 ![NumPy](https://img.shields.io/badge/NumPy-1e3a8a?style=for-the-badge&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-1d4ed8?style=for-the-badge&logo=pandas&logoColor=white)
 ![Scikit-learn](https://img.shields.io/badge/scikit--learn-2563eb?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-3b82f6?style=for-the-badge)
 ![BeautifulSoup](https://img.shields.io/badge/BeautifulSoup-4f46e5?style=for-the-badge)
+</details>
 
 ---
 
-### 🧰 Tools
+<details>
+<summary>### 🧰 Tools</summary>
 ![Git](https://img.shields.io/badge/Git-1e3a8a?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-2563eb?style=for-the-badge&logo=firebase&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-3b82f6?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-1d4ed8?style=for-the-badge&logo=linux&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-4f46e5?style=for-the-badge&logo=figma&logoColor=white)
+</details>
 
 ---
 
-## 📊 Stats (Unified Theme)
+## 📊 Stats
 
 <div align="center">
 
