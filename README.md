@@ -1,7 +1,7 @@
 <div align="center">
    <img width=100% height=10% src=https://capsule-render.vercel.app/api?type=waving&height=100 />
 
-   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=929DF7&width=435&lines=Fullstack+Developer+%7C+Coffee+Conoisseur" alt="Typing SVG" /></a>
+   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=929DF7&width=435&lines=Fullstack+Dev+%7C+Coffee+Conoisseur" alt="Typing SVG" /></a>
    
    <h3 align="center">
      Hi! I'm Eileen Luo
