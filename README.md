@@ -1,13 +1,18 @@
 <div align="center">
-   <img width=100% height=10% src=https://capsule-render.vercel.app/api?type=waving&height=300 />
+   <img width=100% height=10% src=https://capsule-render.vercel.app/api?type=waving&height=100 />
+
+   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=929DF7&width=435&lines=Fullstack+Developer+%7C+Coffee+Conoisseur" alt="Typing SVG" /></a>
+   
+   <h3 align="center">
+     Hi! I'm Eileen Luo
+     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
+   </h3>
+   
+   [![LinkedIn](https://img.shields.io/badge/LinkedIn-B8C5D1?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/eileen-luo-22a642272)
+   [![Email](https://img.shields.io/badge/Email-DDA0DD?style=for-the-badge&logo=gmail&logoColor=white)](mailto:eileen.luo@vanderbilt.edu)
+   [![LinkTree](https://img.shields.io/badge/Portfolio-ADD8E6?style=for-the-badge&logo=About.me&logoColor=white)](#)
+
 </div>
-
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=929DF7&width=435&lines=Fullstack+Developer+%7C+Coffee+Conoisseur" alt="Typing SVG" /></a>
-
-<h3 align="center">
-  Hi! I'm Eileen Luo
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
-</h3>
 
 ---
 
@@ -131,7 +136,7 @@ Built a reproducible pipeline for analyzing structural and functional MRI data, 
     <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://linktr.ee/eileenluo">
-    <img alt="Linktree" src="https://img.shields.io/badge/Linktree-43E55E?style=for-the-badge&logo=linktree&logoColor=white" />
+    <img alt="LinkTree" src="https://img.shields.io/badge/Linktree-43E55E?style=for-the-badge&logo=linktree&logoColor=white" />
   </a>
 </div>
 
