@@ -1,13 +1,13 @@
 <div align="center">
-   <img width=100% src=https://capsule-render.vercel.app/api?type=waving&height=300 />
+   <img width=100% height=10% src=https://capsule-render.vercel.app/api?type=waving&height=300 />
 </div>
+
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=929DF7&width=435&lines=Fullstack+Developer+%7C+Coffee+Conoisseur" alt="Typing SVG" /></a>
 
 <h3 align="center">
   Hi! I'm Eileen Luo
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h3>
-
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=929DF7&width=435&lines=Fullstack+Developer+%7C+Coffee+Conoisseur" alt="Typing SVG" /></a>
 
 ---
 
@@ -17,7 +17,29 @@
 
 ---
 
-## 🛠 &nbsp;Tech Stack
+## 🚀 Featured Projects
+
+<div align="center">
+
+<table>
+<tr>
+<td width="50%">
+
+### 🧠 MRI Scan Analysis — *End-to-End Neuroimaging Pipeline*
+Built a reproducible pipeline for analyzing structural and functional MRI data, combining personal scans with large-scale public datasets to explore brain patterns and variability. Currently moving to an app, hosted on Oracle Cloud.
+
+- ⚙️ Tech: Python, NumPy, SciPy, Matplotlib, FreeSurfer/FastSurfer (Docker), FastAPI
+- ✨ Highlights:
+  - Processed multi-sequence MRI data using a BIDS-compatible structure  
+  - Designed an end-to-end pipeline: preprocessing → feature extraction → statistical analysis  
+  - Integrated external datasets (ADHD-200, HCP-YA) for comparative and outlier analysis  
+  - Containerized neuroimaging workflows with Docker for reproducibility and portability  
+- 🔗 https://github.com/cinnamon-cicada/MRI_Scan
+</td>
+
+---
+
+## 🛠 Tech Stack
 
 ### 💻 Languages
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white)
@@ -114,7 +136,3 @@
 </div>
 
 ---
-
-Credit: [Abdalrahman-Alhamod](https://github.com/Abdalrahman-Alhamod)
-
-Last Edited on: 26/02/2025
