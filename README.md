@@ -1,143 +1,139 @@
 <div align="center">
-   <img width=100% height=10% src=https://capsule-render.vercel.app/api?type=waving&height=100 />
 
-   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=929DF7&width=435&lines=Fullstack+Dev+%7C+Coffee+Conoisseur" alt="Typing SVG" /></a>
-   
-   <h3 align="center">
-     Hi! I'm Eileen Luo
-     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
-   </h3>
-   
-   [![LinkedIn](https://img.shields.io/badge/LinkedIn-B8C5D1?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/eileen-luo-22a642272)
-   [![Email](https://img.shields.io/badge/Email-DDA0DD?style=for-the-badge&logo=gmail&logoColor=white)](mailto:eileen.luo@vanderbilt.edu)
-   [![LinkTree](https://img.shields.io/badge/Portfolio-ADD8E6?style=for-the-badge&logo=About.me&logoColor=white)](#)
+<img width="100%" height="100" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0:1e3a8a,100:4f46e5" />
+
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=6366F1&width=500&lines=Fullstack+Developer+%7C+Coffee+Connoisseur" />
+</a>
+
+<h3>
+  Hi! I'm Eileen Luo
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
+</h3>
+
+<a href="https://linkedin.com/in/eileen-luo-22a642272">
+  <img src="https://img.shields.io/badge/LinkedIn-1d4ed8?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="mailto:eileen.luo@vanderbilt.edu">
+  <img src="https://img.shields.io/badge/Email-2563eb?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+<a href="https://linktr.ee/eileenluo">
+  <img src="https://img.shields.io/badge/Linktree-4f46e5?style=for-the-badge&logo=linktree&logoColor=white" />
+</a>
 
 </div>
 
 ---
 
-- Student at Vanderbilt studying math, CS, and Spanish
-- Incoming SWE at Oracle Cloud Infrastructure in Nashville, TN
-- Always learning! Currently diving deeper into backend development and databases
+- Student at Vanderbilt studying Math, Computer Science, and Spanish  
+- Incoming SWE Intern at Oracle Cloud Infrastructure (Nashville, TN)  
+- Always learning—currently exploring backend systems and databases  
 
 ---
 
-## 🚀 Featured Projects
+## 🚀 Featured Project
 
 <div align="center">
 
-<table>
-<tr>
-<td width="50%">
-
 ### 🧠 MRI Scan Analysis — *End-to-End Neuroimaging Pipeline*
-Built a reproducible pipeline for analyzing structural and functional MRI data, combining personal scans with large-scale public datasets to explore brain patterns and variability. Currently moving to an app, hosted on Oracle Cloud.
 
-- ⚙️ Tech: Python, NumPy, SciPy, Matplotlib, FreeSurfer/FastSurfer (Docker), FastAPI
+Built a reproducible pipeline for analyzing structural and functional MRI data, combining personal scans with large-scale datasets to explore brain variability. Currently evolving into a cloud-hosted application.
+
+- ⚙️ Tech: Python, NumPy, SciPy, Matplotlib, FreeSurfer/FastSurfer (Docker), FastAPI  
 - ✨ Highlights:
   - Processed multi-sequence MRI data using a BIDS-compatible structure  
-  - Designed an end-to-end pipeline: preprocessing → feature extraction → statistical analysis  
-  - Integrated external datasets (ADHD-200, HCP-YA) for comparative and outlier analysis  
-  - Containerized neuroimaging workflows with Docker for reproducibility and portability  
+  - Built full pipeline: preprocessing → feature extraction → statistical analysis  
+  - Integrated ADHD-200 and HCP-YA datasets for comparative analysis  
+  - Containerized workflows using Docker for reproducibility  
 - 🔗 https://github.com/cinnamon-cicada/MRI_Scan
-</td>
+
+</div>
 
 ---
 
 ## 🛠 Tech Stack
 
 ### 💻 Languages
-![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML-1e3a8a?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1d4ed8?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-2563eb?style=for-the-badge&logo=javascript&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3b82f6?style=for-the-badge&logo=typescript&logoColor=white)
+![C++](https://img.shields.io/badge/C++-4f46e5?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Python](https://img.shields.io/badge/Python-6366f1?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-4338ca?style=for-the-badge&logo=java&logoColor=white)
+
+---
 
 ### 🖥️ Frameworks
+![FastAPI](https://img.shields.io/badge/FastAPI-1e3a8a?style=for-the-badge&logo=fastapi&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-1d4ed8?style=for-the-badge&logo=flask&logoColor=white)
+![React](https://img.shields.io/badge/React-2563eb?style=for-the-badge&logo=react&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-3b82f6?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-4f46e5?style=for-the-badge&logo=keras&logoColor=white)
 
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![React.js](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=tensorflow&logoColor=white)
-![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=keras&logoColor=white)
+---
 
 ### 📚 Libraries
-
-![NumPy](https://img.shields.io/badge/NumPy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-%23E20000.svg?style=for-the-badge&logo=matplotlib&logoColor=white)
-![BeautifulSoup](https://img.shields.io/badge/BeautifulSoup-8B4513?style=for-the-badge)
-
----
-
-### 🧰 Tools & Software
-
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-%23FFCA28.svg?style=for-the-badge&logo=firebase&logoColor=black)
-![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
-![Android Studio](https://img.shields.io/badge/Android%20Studio-%23000000.svg?style=for-the-badge&logo=android-studio&logoColor=3DDC84)
-![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=flat&logo=powershell&logoColor=white)
-![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-
-## 📊 Profile Statistics
-
- <div align=center>
-
-![](https://github-readme-stats.vercel.app/api?username=cinnamon-cicada&theme=algolia&show_icons=true&count_private=true&bg_color=1e2b3c&border_color=B2E0FF&icon_color=95ccff&border_radius=20&include_all_commits=true&rank_icon=percentile)
-<br>
-
-</div>
- 
- ### 💳 Github Profile Summary Card
- 
- <div align=center>
-  
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=cinnamon-cicada&theme=github_dark)
-  
- </div>
- 
- ### ⏱ Streak Stats
- 
- <div align=center>
-  
- [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=cinnamon-cicada&theme=dracula&background=1E2B3C&border=B2E0FF&stroke=000439&ring=95CCFF&fire=95CCFF&currStreakNum=95CCFF&sideNums=95CCFF&currStreakLabel=95CCFF&sideLabels=95CCFF&dates=FFFFFF)](https://git.io/streak-stats)
-
- </div>
- 
- ### 📈 Activity Graph
- 
- [![Eileen's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=cinnamon-cicada&theme=react-dark)](https://github.com/cinnamon-cicada/github-readme-activity-graph)
-
-### 📊 Most Used Language
-
- <div align=center>
-  
-[![](https://github-readme-stats.vercel.app/api/top-langs?username=cinnamon-cicada&show_icons=true&locale=en&layout=compact&theme=radical)]()  
-  
- </div>
+![NumPy](https://img.shields.io/badge/NumPy-1e3a8a?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-1d4ed8?style=for-the-badge&logo=pandas&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/scikit--learn-2563eb?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-3b82f6?style=for-the-badge)
+![BeautifulSoup](https://img.shields.io/badge/BeautifulSoup-4f46e5?style=for-the-badge)
 
 ---
 
-### 🔗 &nbsp;Contact Me
+### 🧰 Tools
+![Git](https://img.shields.io/badge/Git-1e3a8a?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-2563eb?style=for-the-badge&logo=firebase&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-3b82f6?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-1d4ed8?style=for-the-badge&logo=linux&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-4f46e5?style=for-the-badge&logo=figma&logoColor=white)
+
+---
+
+## 📊 Stats (Unified Theme)
 
 <div align="center">
-  <a href="mailto:eileen.luo@vanderbilt.edu">
-    <img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/eileen-luo-22a642272/">
-    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://linktr.ee/eileenluo">
-    <img alt="LinkTree" src="https://img.shields.io/badge/Linktree-43E55E?style=for-the-badge&logo=linktree&logoColor=white" />
-  </a>
+
+<img src="https://github-readme-stats.vercel.app/api?username=cinnamon-cicada&show_icons=true&count_private=true&theme=github_dark&title_color=6366F1&icon_color=818CF8&text_color=E5E7EB&bg_color=0D1117&border_color=312E81&border_radius=20" />
+
+<br>
+
+<img src="https://github-readme-streak-stats.herokuapp.com?user=cinnamon-cicada&theme=github-dark-blue&ring=6366F1&fire=818CF8&currStreakLabel=6366F1&background=0D1117&border=312E81" />
+
+<br>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=cinnamon-cicada&theme=github-compact&color=6366F1&line=818CF8&point=E5E7EB&bg_color=0D1117&hide_border=true" />
+
+</div>
+
+---
+
+## 📈 Most Used Languages
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=cinnamon-cicada&layout=compact&theme=github_dark&title_color=6366F1&text_color=E5E7EB&bg_color=0D1117&border_color=312E81" />
+
+</div>
+
+---
+
+## 🔗 Contact
+
+<div align="center">
+
+<a href="mailto:eileen.luo@vanderbilt.edu">
+  <img src="https://img.shields.io/badge/Gmail-1d4ed8?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+<a href="https://linkedin.com/in/eileen-luo-22a642272">
+  <img src="https://img.shields.io/badge/LinkedIn-2563eb?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="https://linktr.ee/eileenluo">
+  <img src="https://img.shields.io/badge/Linktree-4f46e5?style=for-the-badge&logo=linktree&logoColor=white" />
+</a>
+
 </div>
 
 ---
