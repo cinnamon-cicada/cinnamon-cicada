@@ -55,7 +55,7 @@ Built a reproducible pipeline for analyzing structural and functional MRI data, 
 ## 🛠 Tech Stack
 
 <details>
-<summary>#### 💻 Languages</summary>
+<summary> 🌐 Languages</summary>
 ![HTML](https://img.shields.io/badge/HTML-1e3a8a?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-1d4ed8?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-2563eb?style=for-the-badge&logo=javascript&logoColor=white)
@@ -66,7 +66,7 @@ Built a reproducible pipeline for analyzing structural and functional MRI data, 
 </details>
 
 <details>
-<summary>#### 🖥️ Frameworks</summary>
+<summary> 🖥️ Frameworks</summary>
 ![FastAPI](https://img.shields.io/badge/FastAPI-1e3a8a?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-1d4ed8?style=for-the-badge&logo=flask&logoColor=white)
 ![React](https://img.shields.io/badge/React-2563eb?style=for-the-badge&logo=react&logoColor=white)
@@ -75,7 +75,7 @@ Built a reproducible pipeline for analyzing structural and functional MRI data, 
 </details>
 
 <details>
-<summary>#### 📚 Libraries</summary>
+<summary> 📚 Libraries</summary>
 ![NumPy](https://img.shields.io/badge/NumPy-1e3a8a?style=for-the-badge&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-1d4ed8?style=for-the-badge&logo=pandas&logoColor=white)
 ![Scikit-learn](https://img.shields.io/badge/scikit--learn-2563eb?style=for-the-badge&logo=scikit-learn&logoColor=white)
@@ -84,7 +84,7 @@ Built a reproducible pipeline for analyzing structural and functional MRI data, 
 </details>
 
 <details>
-<summary>#### 🧰 Tools</summary>
+<summary> 🧰 Tools</summary>
 ![Git](https://img.shields.io/badge/Git-1e3a8a?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-2563eb?style=for-the-badge&logo=firebase&logoColor=white)
