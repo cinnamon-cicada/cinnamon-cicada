@@ -26,7 +26,7 @@
 ---
 
 - Student at Vanderbilt studying Math, Computer Science, and Spanish  
-- Incoming SWE Intern at Oracle Cloud Infrastructure (Nashville, TN)  
+- Former SWE Intern at Oracle Cloud Infrastructure 
 - Always learning—currently exploring backend systems and databases
 - I love amateur photography, hiking, and coffee shops ☕
 
